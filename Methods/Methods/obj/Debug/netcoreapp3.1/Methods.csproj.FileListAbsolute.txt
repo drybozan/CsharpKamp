@@ -1,0 +1,13 @@
+C:\Users\derya\Documents\KampC#\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\derya\Documents\KampC#\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\derya\Documents\KampC#\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\derya\Documents\KampC#\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\derya\Documents\KampC#\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\derya\Documents\KampC#\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\derya\Documents\KampC#\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\Users\derya\Documents\KampC#\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\derya\Documents\KampC#\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\derya\Documents\KampC#\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\derya\Documents\KampC#\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\derya\Documents\KampC#\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\derya\Documents\KampC#\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
