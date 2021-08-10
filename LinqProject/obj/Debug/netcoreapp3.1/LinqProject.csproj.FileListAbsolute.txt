@@ -1,0 +1,12 @@
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.exe
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.deps.json
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.runtimeconfig.json
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.runtimeconfig.dev.json
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.dll
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.pdb
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.AssemblyInfoInputs.cache
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.AssemblyInfo.cs
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.dll
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.pdb
+C:\Users\derya\Documents\KampC#\Methods\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.genruntimeconfig.cache
